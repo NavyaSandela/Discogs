@@ -5,12 +5,9 @@ This application used React Js as the client side language and the Node Js as he
 
 # Technologies Used:
 
-NODE.JS
-REACT.JS
-SQL SERVER
-DISCOGS API
+Node.js, React.js, SQL Server, API Fetch
 
-Installation clone project using git https://github.com/NavyaSandela/
+Installation clone project using git https://github.com/NavyaSandela/Discogs
 
 Contributing When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
