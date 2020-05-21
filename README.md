@@ -16,7 +16,5 @@ Contributer Team :
 Navya Sree Sandela 
 Dhanush Kumar Mummidi
 
-Updated Upload functionality in Registration page Current User will not be shown in the catalogue page Able to send Winks Able to Receive Winks Added Winked_Profiles page to view the people who winked Db Updated for the wink table
-
 License
 All rights reseved by the Team
